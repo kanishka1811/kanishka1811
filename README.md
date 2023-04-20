@@ -28,7 +28,7 @@ Here are some ideas to get you started:
       </ul>
 - 🍓 Hobbies: 
       <ul>
-          <li>🎤 Music is the strongest form of magic so i just love to sing. </li>
+          <li>🎤 I just love to sing, music being the strongest form of magic. </li>
           <li>📝 I adore writing and expressing my thoughts through well-crafted sentences and words.</li>
       </ul>
   
