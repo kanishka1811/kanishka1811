@@ -26,7 +26,7 @@ Here are some ideas to get you started:
           <li>✅ Natural Language Processing</li>
           <li>✅ Deep Learning - ANN & CNN</li>
       </ul>
-- 🍓 Hobbies: 
+- 🌸 Hobbies: 
       <ul>
           <li>🎤 I just love to sing, music being the strongest form of magic. </li>
           <li>📝 I adore writing and expressing my thoughts through well-crafted sentences and words.</li>
